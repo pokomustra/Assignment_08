@@ -1,0 +1,8 @@
+(78, 'ggg', 'bbb')
+(23, 'fff', 'vvv')
+(56, 'gg', 'bbb')
+(90, 'ggg', 'ddd')
+(56, 'fff', 'eee')
+(22, 'bbb', 'ddd')
+(5, 'nbm', 'bbb')
+(9, 'ppp', 'ddd')
